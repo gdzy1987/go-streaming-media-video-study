@@ -1,0 +1,7 @@
+.idea
+bin/*
+api/logs/*
+scheduler/logs/*
+streamserver/logs/*
+scheduler/logs/*
+web/logs/*
